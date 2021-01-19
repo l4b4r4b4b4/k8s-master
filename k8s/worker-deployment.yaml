@@ -18,6 +18,6 @@ spec:
           env:
             - name: REDIS_HOST
               value: redis-cluster-ip-service
-            - name: REDIS_PORT:
+            - name: REDIS_PORT
               value: '6379'
 
